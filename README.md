@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @915-Moldovan-Andrei-Bogdan
+- 👋 Hi, I’m Moldovan-Andrei-Bogdan
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning at Babes-Bolyai University of Cluj-Napoca
 - 💞️ I’m looking to collaborate on any project related to software
